@@ -78,9 +78,9 @@ npm run dev
 
 | Page | Preview |
 |------|---------|
-| Dashboard | ![](./docs/screenshots/03-dashboard.png) |
-| Inventory | ![](./docs/screenshots/05-inventory.png) |
-| Alerts | ![](./docs/screenshots/07-low-stock-alert.png) |
+| Dashboard | ![](/outputs/web1.png) |
+| Inventory | ![]![](/outputs/web2.png) |
+| Alerts | ![](/outputs/web3.png) |
 
 ## 🎓 Learning Outcomes
 - MERN stack full-stack development
